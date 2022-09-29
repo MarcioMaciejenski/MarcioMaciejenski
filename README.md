@@ -5,6 +5,8 @@
 
 ![MarcioMaciejenski GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioMaciejenski&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioMaciejenski&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+Em transição de carreira, estudante de desenvolvimento web na Trybe.
 
 ### Tecnologias aprendidadas.
 <div><br/>
@@ -18,6 +20,4 @@
   </br>
   </br>
   <img align="center" alt="testing-library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
-</div></br>
-
-Em transição de carreira, estudante de desenvolvimento web na Trybe.
+</div>
