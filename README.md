@@ -1,12 +1,10 @@
 ### Olá, eu sou o Márcio Maciejenski 🧑🏻‍💻
-
+Em transição de carreira, estudante de desenvolvimento web na Trybe.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-maciejenski/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marciomaciejenski/)
 
 ![MarcioMaciejenski GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioMaciejenski&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioMaciejenski&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-Em transição de carreira, estudante de desenvolvimento web na Trybe.
 
 ### Tecnologias aprendidadas.
 <div><br/>
